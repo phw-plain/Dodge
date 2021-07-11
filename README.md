@@ -13,6 +13,8 @@
 2. 압축해제
 3. Dodge.exe 실행
 
+  * 게임 종료 방법 : Alt + F4
+
 ### Link
 
 * http://www.yes24.com/Product/Goods/69320872
