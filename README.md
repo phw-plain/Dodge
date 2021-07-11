@@ -7,7 +7,7 @@
 * <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white"/></a>
 * <img src="https://img.shields.io/badge/C＃-6428B4?style=flat-square&logo=&logoColor=white"/></a>
 
-### How to use
+### HOW TO USE
 
 1. ZIP 파일 다운로드
 2. 압축해제
